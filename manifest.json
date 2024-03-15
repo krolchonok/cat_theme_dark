@@ -1,0 +1,29 @@
+{
+  "name": "Dark Theme with CAT",
+  "manifest_version": 2,
+  "version": "1.0",
+  "theme": {
+    "images": {
+      "theme_frame": "main.gif"
+    },
+    "colors": {
+		"tab_background_text": "rgba(255, 255, 255, 1)",
+		"toolbar": "rgba(0, 0, 0, 0)",
+		"toolbar_top_separator": "rgba(0, 0, 0, 0)",
+		"bookmark_text": "rgba(255, 255, 255, 1)",
+		"toolbar_field": "rgba(0, 0, 0, 0)",
+		"toolbar_field_text": "rgba(255, 255, 255, 1)",
+		"tab_line": "white",
+		"tab_text": "white",
+		"tab_loading": "white",
+		"frame": "black",
+		"button_background_active": "rgb(65, 0, 2)",
+	    "button_background_hover": "rgb(65, 0, 2)",
+		"icons": "white",
+		"popup": "black",
+		"popup_border": "white",
+		"popup_highlight": "white",
+		"popup_highlight_text": "black"
+    }
+  }
+}
