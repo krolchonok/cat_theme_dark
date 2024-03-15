@@ -1,11 +1,12 @@
 {
-  "name": "Dark Theme with CAT",
-  "manifest_version": 2,
-  "version": "1.0",
-  "theme": {
-    "images": {
-      "theme_frame": "main.gif"
-    },
+	"name": "Dark Theme with CAT",
+	"manifest_version": 2,
+	"version": "1.0",
+	"description": "Simple dark theme with CAT",
+	"theme": {
+		"images": {
+		"theme_frame": "main.gif"
+	},
     "colors": {
 		"tab_background_text": "rgba(255, 255, 255, 1)",
 		"toolbar": "rgba(0, 0, 0, 0)",
