@@ -14,7 +14,7 @@
 		"bookmark_text": "rgba(255, 255, 255, 1)",
 		"toolbar_field": "rgba(0, 0, 0, 0)",
 		"toolbar_field_text": "rgba(255, 255, 255, 1)",
-		"tab_line": "white",
+		"tab_line": "rgba(0, 0, 0, 0)",
 		"tab_text": "white",
 		"tab_loading": "white",
 		"frame": "black",
